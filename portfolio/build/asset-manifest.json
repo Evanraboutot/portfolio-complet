@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a37c2b99.css",
+    "main.js": "/static/js/main.3e61e405.js",
+    "static/media/Objet3D-1.png": "/static/media/Objet3D-1.54e5e8a287acf3c6c94e.png",
+    "static/media/portfolio-img2.png": "/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
+    "static/media/Illustration de la citadelle de Besançon_Plan de travail 1.svg": "/static/media/Illustration de la citadelle de Besançon_Plan de travail 1.70f8c346efab64b1e3d3.svg",
+    "static/media/portfolio-img4.png": "/static/media/portfolio-img4.0bdbf4d659be48992bc9.png",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img1.png": "/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/Logo2.png": "/static/media/Logo2.3573ae6fb64e0a30576f.png",
+    "static/media/UFC-White-Logo.svg": "/static/media/UFC-White-Logo.89380454ec1eef3b6ce47113909e3d3a.svg",
+    "index.html": "/index.html",
+    "main.a37c2b99.css.map": "/static/css/main.a37c2b99.css.map",
+    "main.3e61e405.js.map": "/static/js/main.3e61e405.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a37c2b99.css",
+    "static/js/main.3e61e405.js"
+  ]
+}
